@@ -4,7 +4,7 @@ layout: default
 
 ![avatar](avatar.jpg)
 
-# Kirby
+# Jerry Kuo
 
 A Nintendo Character
 
