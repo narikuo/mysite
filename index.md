@@ -6,18 +6,52 @@ layout: default
 
 # Jerry Kuo
 
-A Nintendo Character
+A Android Developer
 
 - - -
 
-### about
+### 關於我 About Me
 
-Kirby (カービィ Kābī?) is a fictional character and the titular protagonist of the Kirby series of video games owned by Nintendo and HAL Laboratory. As one of Nintendo's most famous and familiar icons, Kirby's round appearance and ability to copy his foes' powers has made him a well known figure in video games, consistently ranked as one of the most iconic video game characters. 
+2年行動應用程式開發經驗(Android)，以及5年的網路程式開發經驗，從資策會養成班紮實的訓練後，已有近8年程式設計經驗，熟悉Java, ASP.NET 、PHP 、JavaScript 、jQuery、HTML、CSS，同時也有4年電腦及系統維護經驗，與市場業務經歷。 具有UI 設計、視覺設計與企劃能力，能獨立完成App之規劃與UI/UX設計。 具有CMS建置網站(Wordpress)能力，樂於接受新事物，學習能力強，良好的溝通與傾聽技能，可獨立或與團隊成員搭配合作。 
 
-### Links
+### 經歷 Experience
 
- * [11 amazing Kirby facts and secrets](http://www.officialnintendomagazine.co.uk/41729/11-amazing-kirby-facts-and-secrets/)
- * [How did your favourite Nintendo characters get their names?](http://www.officialnintendomagazine.co.uk/42153/how-did-mario-get-his-name-and-the-origins-of-your-favourite-nintendo-stars/?page=6)
- * [Why is Kirby always angry in the US? Nintendo explains](http://www.gamespot.com/articles/why-is-kirby-always-angry-in-the-us-nintendo-explains/1100-6419263/)
+自中原土木畢業與役畢後，先於福慶紙業任職六年多，並於2009轉換跑道，先於資策會6個月紮實的軟體訓練後，即任職於內湖科學園區的IC晶片代理商全科科技 IT 部門，擔任軟體程式設計師，並於2015年向公司爭取轉職至研發部門任職應用工程師，負責Mobile App開發，前後已在全科科技服務近九年。
+
+#### 全科科技股份有限公司 (2009/12 ~ Now)
+##### 高級應用工程師 Android Developer ・2015 年 11月 - 至今
+2015轉職至研發部門任職應用工程師，積極自學 Mobile App 開發，參與物聯網相關應用程式開發專案。對UI/UX有高度興趣的我，也幫助公司設計了新 App 介面，獲得不錯的肯定。
+
+工作職責：
+- Android 行動應用程式專案開發及維護 
+- Apps 專案的評估、規劃、設計與開發實作
+- UI/UX 規劃與設計 
+- 專案管理開發與技術支援，解決方案與產業趨勢的研究 
+- IoT Platform 專案網站的建置與維護
+- 影片拍攝後製剪輯
+
+工作成果： 
+- 2018年 Bluetooth E-Lock 藍芽電子門鎖: 開發  Android App，讓手機透過藍牙操作門鎖開關，並提供OTA 無線韌體升級功能 ( Over-The -Air )，App  上架及維護。 
+- 2017年 USB Smart Meter 電力測試儀：開發  Android App，讓手機透過藍牙讀取監測值，利用 MPAndroidChart 套件，將數值以圖表呈現。 
+- 2016年 Smart Plug 雲端智慧插座：透過 AWS IoT 利用 Lambda 與 Amazon Alexa Home Skill之間整合，讓裝置相容Amazon Echo語音助理，可透過語音方式操作智慧插座及取得狀態資訊。  更多資訊
+- 2016年 Smart Plug (Bluetooth)：開發  iOS App ( Objective-C )，透過藍牙讀取監測值。  更多資訊
+- 2017年 物聯網專案平台網站的建置，自行獨立架設，4天讓網站上線運作，提供客戶優質的技術展示平台。
+
+
+#### 高級程式設計師 ・2009 年 12 月 - 2015 年 11 月
+系統開發環境，後端多以ASP.NET為主、部分以PHP開發，前端JavaScript、jQuery，資料庫MSSQL、MySQL、Oracle SQL，搭配Visual Studio…等開發工具。 
+
+工作職責：
+- 建置、管理與維護公司內部的網路系統和資料。 
+- 設計開發、維護應用程式與系統，並與新開發的系統整合。 
+- 公司網頁、電子表單的設計、維護及管理。 據專案計畫，進行需求分析、設計以及程式撰寫工作。 
+工作成果：
+- 2014年參與Microsoft Biz Talk導入，協助B2B EDI之建置專案，提升公司採購流程之效率，節省20%人工作業時間。 2015年參與倉儲系統(WMS)導入與維護工作，提高倉儲管理之效益。
+- 2012年 規劃與建置MIS Help Desk系統，提升MIS管理與服務品質。 
+- 2011年 獲得公司頒發 年度績優員工獎，工作表現深獲公司肯定。 
+- 2011年 參與企業流程管理系統(BPM)導入電子簽核，負責開發維護內部控管類表單約計26張及系統維護，補足 ERP 所缺之電子簽核功能並與之完美介接，提高工作簽核流程之效率。
+- 2010年 協助建置導入全新官方網站，提升公司整體專業形象，網站優化後增加2倍網站曝光率。
+- 2010年 建置與導入EIP企業入口網站，負責整合新舊系統資訊，維護管理，掌握專案時程，增進公司內部溝通協調、資源整合與利用，獲得同仁高度評價。 
+
 
 - - -
