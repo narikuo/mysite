@@ -6,11 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
+title: Jerry Kuo - I am a Happy Android Developer
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  2年行動應用程式開發經驗(Android)，以及5年的網路程式開發經驗，已有近8年程式設計經驗，
+  熟悉Java, ASP.NET 、PHP 、JavaScript 、jQuery、HTML、CSS，
+  同時也有4年電腦及系統維護經驗，與市場業務經歷。 
+  具有UI 設計、視覺設計與企劃能力，能獨立完成App之規劃與UI/UX設計。 
+  具有CMS建置網站(Wordpress)能力，樂於接受新事物，學習能力強，
+  良好的溝通與傾聽技能，可獨立或與團隊成員搭配合作。 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 
